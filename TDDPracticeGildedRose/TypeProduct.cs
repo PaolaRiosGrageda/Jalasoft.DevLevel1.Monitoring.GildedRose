@@ -11,6 +11,7 @@ namespace TDDPracticeGildedRose
         Normal,
         AgedBrie,
         Sulfuras,
-        BackstagePasses
+        BackstagePasses,
+        Conjured
     }
 }
